@@ -1,0 +1,49 @@
+body{
+    max-width: 700%;
+    min-width:100%;
+    
+    overflow: hidden; 
+}
+
+#logo {
+   
+        width: 5%;
+        margin-top: 1%;
+        margin-left: 2%;
+}
+ 
+#one{
+margin-left: 3%;
+margin-top: 3%;
+
+
+width: 20%;
+height: 100%;
+margin-top: 1%;
+
+}
+
+#two{
+    width: 20%;
+height: 100%;
+    
+    margin-top: -48%;
+    margin-left: 25%;
+
+}
+#three{
+    width: 20%;
+height: 50%;
+    
+    margin-top: -47%;
+    margin-left: 50%;
+
+}
+#four{
+    width: 20%;
+height: 50%;
+    
+    margin-top: -47%;
+    margin-left: 76%;
+
+}
